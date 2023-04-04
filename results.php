@@ -10,4 +10,4 @@
 ?>
 
 <h3>Results:</h3>
-The volume of the triangular pyramid is <?php echo "$volumeRounded" ?> cm<sup>2</sup>.<br>
+The volume of the triangular pyramid is <?php echo "$volumeRounded" ?> cm<sup>3</sup>.
